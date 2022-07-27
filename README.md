@@ -1,8 +1,7 @@
 ### Oii, eu sou a Bruna! 👋
 
 - 🔭 Atualmente trabalho com venda de eletrônicos 
-- 🔭 trabalho como autônoma
-- 🌱 Estudando JavaScript, HTML, e CSS.
+- 🌱 Estudando Flutter, HTML5 e CSS3
 - 💬 Contate-me em brunaads.ti@gmail.com
 - 😄 Pronome: Ela/dela
 
