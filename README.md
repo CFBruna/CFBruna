@@ -1,7 +1,8 @@
 ### Oii, eu sou a Bruna! 👋
 
-- 🔭 Atualmente trabalho com venda de eletrônicos 
-- 🌱 Estudando Flutter, HTML5 e CSS3
+- 🔭 Buscando especialização e crescimento como programadora, com foco em criação e desenvolvimento de
+aplicações web e mobile. 
+- 🌱 Estudando Dart, Flutter, HTML5 e CSS3
 - 💬 Contate-me em brunaads.ti@gmail.com
 - 😄 Pronome: Ela/dela
 
