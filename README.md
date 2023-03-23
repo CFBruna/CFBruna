@@ -22,6 +22,7 @@ aplicações web e mobile.
    </div>
     
 <div>
+  <br>
  
  
   <a href = "mailto:brunaads.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
