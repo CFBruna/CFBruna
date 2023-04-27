@@ -1,8 +1,7 @@
 ### Oii, eu sou a Bruna! 👋
 
-- 🔭 Buscando especialização e crescimento como programadora, com foco em criação e desenvolvimento de
-aplicações web e mobile. 
-- 🌱 Estudando Dart, Flutter, HTML5 e CSS3
+- 🔭 Olá, meu nome é Bruna e atualmente estou cursando o último período de graduação em Análise e Desenvolvimento de Sistemas. Tenho grande interesse e dedicação na área de desenvolvimento Front-End e estou constantemente buscando me especializar e crescer nessa área.
+- 🌱 Estudante Front-End | HTML5 | CSS3 | JavaScript | GitHub | Git
 - 💬 Contate-me em brunaads.ti@gmail.com
 - 😄 Pronome: Ela/dela
 
