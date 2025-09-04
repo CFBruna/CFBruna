@@ -1,56 +1,62 @@
-# 👋 Olá, eu sou a Bruna!
+# Olá, eu sou a Bruna Menezes! 👋
 
-🎓 Formada em Análise e Desenvolvimento de Sistemas  
-💻 Estudando Python, Django, Docker e Bootstrap  
-✨ Apaixonada por construir soluções úteis e praticar com projetos reais
+<a href="https://www.linkedin.com/in/bruna-c-menezes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
 
-## 🚀 Sobre mim
+### Desenvolvedora Backend Python | Django, DRF, Celery, Docker & CI/CD
 
-Atualmente estou focada em aprender desenvolvimento web com backend em **Python/Django** e frontend com **Bootstrap**.  
-Já finalizei alguns projetos com ajuda de inteligência artificial, que uso bastante no meu dia a dia para aprender e acelerar o desenvolvimento.
+Sou uma Desenvolvedora Backend apaixonada por construir aplicações robustas e escaláveis com o ecossistema Python. Minha jornada nos últimos meses tem sido uma imersão profunda na criação de projetos complexos, onde transformo problemas de negócio em soluções técnicas eficientes.
 
-Sou curiosa, gosto de resolver problemas e estou sempre em busca de evoluir tecnicamente.
+- 🔭 Atualmente estou focada em aprimorar minhas habilidades em arquitetura de microsserviços e práticas de DevOps.
+- 🌱 Sou uma entusiasta de ferramentas que aceleram o desenvolvimento, como IA generativa, que uso como copiloto para otimizar meu fluxo de trabalho.
+- 👯 Procuro colaborar em projetos que tenham um impacto real e onde eu possa continuar aprendendo com uma equipe talentosa.
+- 📫 Como entrar em contato comigo: `brunaads.ti@gmail.com`
+
+---
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| Backend | Databases | DevOps & Ferramentas | Frontend (Básico) |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| ![Django REST Framework](https://img.shields.io/badge/-DRF-A30000?style=flat-square) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white) | | ![Pytest](https://img.shields.io/badge/-Pytest-0A9B5C?style=flat-square&logo=pytest&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+</div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas que já usei
+### ✨ Meus Principais Projetos
 
-- HTML | CSS | Bootstrap  
-- JavaScript (básico) | React (básico)  
-- Python | Django | Docker  
-- Git | GitHub | GitHub Copilot  
-- Figma (interface de um site durante um curso)  
-- VSCode + extensões de produtividade
-
----
-
-## 📚 Projetos
-
-🔹 **SGE - Sistema de Gerenciamento de Estoque**  
-Projeto web desenvolvido em Django, com suporte a cadastro de produtos, movimentações e controle de estoque.  
-[🔗 Acesse o repositório](https://github.com/CFBruna/sge)
-
-🔹 **Roteiro Flexível**  
-Site com roteiro de viagem interativo feito com HTML, CSS e IA.  
-💡 Desenvolvido com foco em praticar frontend e organização de conteúdo.  
-[🌐 Acesse o site](https://roteiroflexivel.com.br)
-
-🔹 **Library Management** (em andamento)  
-Sistema de gerenciamento de biblioteca com Django, baseado em um projeto de curso. Estou personalizando e adaptando para ganhar mais prática.
-
----
-
-## 💡 Créditos
-
-Desenvolvido por [Bruna (CFBruna)](https://github.com/CFBruna) com 💻 e ☕  
-🚀 Projetos criados durante meus estudos, com o apoio de inteligência artificial como GitHub Copilot e ChatGPT.
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">PetCare - Sistema de Gestão para Pet Shops</h3>
+<div align="center">
+<p>Sistema web completo com Django, DRF, Celery e Redis. Demonstra arquitetura robusta com tarefas assíncronas, CI/CD e uma suíte de testes completa.</p>
+<a href="https://github.com/CFBruna/petcare_project" target="_blank">
+<img src="https://img.shields.io/badge/VER_CÓDIGO-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Parking Service - API</h3>
+<div align="center">
+<p>API RESTful para estacionamentos com 96% de cobertura de testes, CI/CD com GitHub Actions, JWT e uma camada de serviço desacoplada para a lógica de negócio.</p>
+<a href="https://github.com/CFBruna/parking_service" target="_blank">
+<img src="https://img.shields.io/badge/VER_CÓDIGO-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+</td>
+</tr>
+</table>
 
 ---
-
-## 📬 Contato
-
-Se quiser trocar uma ideia:  
-📧 brunaads.ti@gmail.com
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=CFBruna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
