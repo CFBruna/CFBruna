@@ -1,5 +1,7 @@
 <div align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Bruna+Menezes;Software+Engineer;Python+%7C+Django+%7C+AWS;Building+High-Quality+Backends" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
@@ -84,18 +86,19 @@ Sou uma **Engenheira de Software** especializada em Backend com Python. Meu foco
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🏗️ <a href="https://github.com/CFBruna/django-enterprise-template">Enterprise Template</a></h3>
+      <h3 align="center">🧬 <a href="https://github.com/CFBruna/cookiecutter-django-enterprise">Cookiecutter Enterprise</a></h3>
       <p align="center">
-        <em>Arquitetura e DevOps Scaffolding.</em>
+        <em>Automação de Projetos e DevOps.</em>
       </p>
       <p>
-        Template que reduz em 80% o setup de projetos corporativos. Implementa Clean Architecture, DDD e Segurança.
+        CLI que gera projetos Django prontos para produção com 1 comando.
       </p>
       <p>
-        <strong>Stack:</strong> Django, Docker Multi-stage, GitHub Actions, Sentry, Makefile.
+        <strong>Stack:</strong> Python, Cookiecutter, Docker Multi-stage, GitHub Actions, Sentry.
       </p>
+      <br>
       <p align="center">
-        <a href="https://github.com/CFBruna/django-enterprise-template">
+        <a href="https://github.com/CFBruna/cookiecutter-django-enterprise">
           <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
         </a>
       </p>
@@ -124,20 +127,11 @@ Sou uma **Engenheira de Software** especializada em Backend com Python. Meu foco
 <summary><strong>📦 Outros Projetos (Click to expand)</strong></summary>
 <br>
 
+* **[Django Enterprise Template](https://github.com/CFBruna/django-enterprise-template):** A base arquitetural usada pelo Cookiecutter.
 * **[Library Management](https://github.com/CFBruna/library_management):** Sistema de biblioteca com controle de acervo e empréstimos.
 * **[SGE - Estoque](https://github.com/CFBruna/sge):** Sistema de gestão de estoque com relatórios e dashboard.
-* **[Cookiecutter Enterprise](https://github.com/CFBruna/cookiecutter-django-enterprise):** Automação para gerar novos projetos baseados no meu template enterprise.
 
 </details>
-
-<br>
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CFBruna&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFBruna&layout=compact&theme=transparent&hide_border=true"/>
-</div>
 
 <br>
 
