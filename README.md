@@ -1,62 +1,146 @@
-# Olá, eu sou a Bruna Menezes! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Bruna+Menezes;Software+Engineer;Python+%7C+Django+%7C+AWS;Building+High-Quality+Backends" alt="Typing SVG" />
+</div>
 
-<a href="https://www.linkedin.com/in/bruna-c-menezes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bruna-c-menezes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:brunaads.ti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5531995008636">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+### 👋 Olá! / Hello!
+
+Sou uma **Engenheira de Software** especializada em Backend com Python. Meu foco é transformar requisitos de negócio complexos em software robusto, testável e escalável. Construo aplicações completas, do primeiro commit ao deploy em produção na AWS.
 
 ---
 
-### Desenvolvedora Backend Python | Django, DRF, Celery, Docker & CI/CD
-
-Sou uma Desenvolvedora Backend apaixonada por construir aplicações robustas e escaláveis com o ecossistema Python. Minha jornada nos últimos meses tem sido uma imersão profunda na criação de projetos complexos, onde transformo problemas de negócio em soluções técnicas eficientes.
-
-- 🔭 Atualmente estou focada em aprimorar minhas habilidades em arquitetura de microsserviços e práticas de DevOps.
-- 🌱 Sou uma entusiasta de ferramentas que aceleram o desenvolvimento, como IA generativa, que uso como copiloto para otimizar meu fluxo de trabalho.
-- 👯 Procuro colaborar em projetos que tenham um impacto real e onde eu possa continuar aprendendo com uma equipe talentosa.
-- 📫 Como entrar em contato comigo: `brunaads.ti@gmail.com`
-
----
-<div align="center">
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| Backend | Databases | DevOps & Ferramentas | Frontend (Básico) |
-| :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| ![Django REST Framework](https://img.shields.io/badge/-DRF-A30000?style=flat-square) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white) | | ![Pytest](https://img.shields.io/badge/-Pytest-0A9B5C?style=flat-square&logo=pytest&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-
-</div>
+🇺🇸 *I am a **Software Engineer** specialized in Python Backend. I focus on transforming complex business requirements into robust, testable, and scalable software. I build end-to-end applications, from the first commit to production deployment on AWS.*
 
 ---
 
-### ✨ Meus Principais Projetos
+### 🛠️ Tech Stack & Tooling
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">PetCare - Sistema de Gestão para Pet Shops</h3>
 <div align="center">
-<p>Sistema web completo com Django, DRF, Celery e Redis. Demonstra arquitetura robusta com tarefas assíncronas, CI/CD e uma suíte de testes completa.</p>
-<a href="https://github.com/CFBruna/petcare_project" target="_blank">
-<img src="https://img.shields.io/badge/VER_CÓDIGO-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
+| **Core & Frameworks** | **Infrastructure & Cloud** | **Quality & DevOps** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=flat-square&logo=pytest&logoColor=2f9ceb) ![Ruff](https://img.shields.io/badge/Ruff-black?style=flat-square) |
+| ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=flat-square&logo=celery&logoColor=ddf4a4) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) | ![Clean Arch](https://img.shields.io/badge/Clean%20Arch-blue?style=flat-square) ![TDD](https://img.shields.io/badge/TDD-green?style=flat-square) |
+
 </div>
-</td>
-<td width="50%">
-<h3 align="center">Parking Service - API</h3>
-<div align="center">
-<p>API RESTful para estacionamentos com 96% de cobertura de testes, CI/CD com GitHub Actions, JWT e uma camada de serviço desacoplada para a lógica de negócio.</p>
-<a href="https://github.com/CFBruna/parking_service" target="_blank">
-<img src="https://img.shields.io/badge/VER_CÓDIGO-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
-</td>
-</tr>
+
+<br>
+
+### 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🐾 <a href="https://github.com/CFBruna/petcare_project">PetCare SaaS (Production)</a></h3>
+      <p align="center">
+        <em>Sistema de gestão Enterprise hospedado na AWS.</em>
+      </p>
+      <p>
+        Plataforma completa para Pet Shops com agendamento, financeiro e estoque.
+      </p>
+      <p>
+        <strong>Stack:</strong> Django, DRF, Celery, Redis, PostgreSQL, AWS (EC2/RDS), Docker, CI/CD.
+      </p>
+      <p align="center">
+        <a href="https://github.com/CFBruna/petcare_project">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
+        </a>
+        <a href="http://petcare.brunadev.com/">
+           <img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 <a href="https://github.com/CFBruna/ChatFlow-AI">ChatFlow AI</a></h3>
+      <p align="center">
+        <em>Plataforma de IA Conversacional.</em>
+      </p>
+      <p>
+        Chatbot inteligente multi-usuário integrado com LLMs (Llama 3.3 via Groq) e memória persistente.
+      </p>
+      <p>
+        <strong>Stack:</strong> LangChain, Groq API, Django 5.2, Docker, PostgreSQL.
+      </p>
+      <br>
+      <p align="center">
+        <a href="https://github.com/CFBruna/ChatFlow-AI">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏗️ <a href="https://github.com/CFBruna/django-enterprise-template">Enterprise Template</a></h3>
+      <p align="center">
+        <em>Arquitetura e DevOps Scaffolding.</em>
+      </p>
+      <p>
+        Template que reduz em 80% o setup de projetos corporativos. Implementa Clean Architecture, DDD e Segurança.
+      </p>
+      <p>
+        <strong>Stack:</strong> Django, Docker Multi-stage, GitHub Actions, Sentry, Makefile.
+      </p>
+      <p align="center">
+        <a href="https://github.com/CFBruna/django-enterprise-template">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🅿️ <a href="https://github.com/CFBruna/parking_service">Parking Service API</a></h3>
+      <p align="center">
+        <em>API de Alta Performance.</em>
+      </p>
+      <p>
+        API REST modular focada em boas práticas, modelagem de dados e filtragem avançada (RQL).
+      </p>
+      <p>
+        <strong>Stack:</strong> DRF, Swagger/OpenAPI 3.0, RQL, Pytest (96% Coverage), MyPy.
+      </p>
+      <p align="center">
+        <a href="https://github.com/CFBruna/parking_service">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
----
+<details>
+<summary><strong>📦 Outros Projetos (Click to expand)</strong></summary>
+<br>
+
+* **[Library Management](https://github.com/CFBruna/library_management):** Sistema de biblioteca com controle de acervo e empréstimos.
+* **[SGE - Estoque](https://github.com/CFBruna/sge):** Sistema de gestão de estoque com relatórios e dashboard.
+* **[Cookiecutter Enterprise](https://github.com/CFBruna/cookiecutter-django-enterprise):** Automação para gerar novos projetos baseados no meu template enterprise.
+
+</details>
+
+<br>
+
+### 📈 GitHub Stats
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CFBruna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CFBruna&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFBruna&layout=compact&theme=transparent&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+  <p><em>"Transforming business problems into reliable software solutions."</em></p>
 </div>
