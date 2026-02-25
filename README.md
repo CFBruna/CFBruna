@@ -20,9 +20,14 @@
 
 ### 👋 About Me
 
-Software Engineer with expertise in building **production-ready applications** using **Clean Architecture**, **CI/CD**, and **cloud deployment**. I develop end-to-end solutions from the first commit to production, with a strong focus on **code quality**, **automated testing**, and **scalability**.
+Fullstack Software Engineer with **5+ years of experience** delivering production-ready solutions. I specialize in **End-to-End Ownership**, bridging the gap between complex business requirements and zero-downtime deployments—a technical maturity demonstrated through the high-fidelity systems showcased below.
 
-Currently maintaining **3 live applications** deployed on **Azure** with public demos and comprehensive API documentation.
+- 🚀 **Business Mindset**: Former e-commerce manager, bringing a practical focus on ROI, process automation, and real-world problem-solving.
+- ☁️ **Cloud Multi-Stack**: Extensive experience deploying and managing infrastructure across **AWS, Azure, and Google Cloud Platform (GCP)**.
+- 🌍 **Global Standards**: Expert in **Internationalization (i18n)** and Multi-currency systems (mastering BRL, USD, and PYG rules).
+- 🏗️ **Architecture**: Heavy focus on **Clean Architecture**, **SOLID**, and **automated testing** (95%+ coverage).
+
+I am currently maintaining the projects below as **high-fidelity portfolio showcases** to demonstrate production-grade quality, security, and architecture.
 
 ---
 
@@ -118,7 +123,7 @@ Currently maintaining **3 live applications** deployed on **Azure** with public 
         <a href="https://github.com/CFBruna/fullstack-product-manager">
           <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
         </a>
-        <a href="https://product-manager.brunadev.com">
+        <a href="https://store-manager.brunadev.com">
            <img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge" />
         </a>
         <a href="https://product-manager.brunadev.com/api/api-docs/">
@@ -162,12 +167,12 @@ Currently maintaining **3 live applications** deployed on **Azure** with public 
 
 ###  What I Bring
 
-- ✅ **Production Experience**: 3+ live applications deployed on Azure with public demos
-- ✅ **High Test Coverage**: 94-98% coverage (Pytest, Jest, Vitest, Cypress E2E)
-- ✅ **Clean Architecture**: Domain-Driven Design, SOLID principles, Repository Pattern
-- ✅ **DevOps Ready**: CI/CD pipelines, Docker, GitHub Actions, automated deployments
-- ✅ **AI Integration**: LangChain, Google Gemini, Groq API, RAG, Function Calling
-- ✅ **Modern Stack**: Python 3.12, Django 5, NestJS 10, React 18-19, Next.js 15, TypeScript 5
+- ✅ **Professional Experience**: 5+ years delivering functional solutions for E-commerce, Veterinary, and Management sectors.
+- ✅ **Multi-Cloud Mastery**: Expertise in architecting and deploying on **AWS, Azure, and GCP**.
+- ✅ **Advanced i18n**: Deep knowledge of internationalization, regional business rules, and dynamic formatting (BRL/USD/PYG).
+- ✅ **High-Quality Code**: 94-98% coverage using Pytest, Jest, Vitest, and Cypress (E2E).
+- ✅ **Team-Oriented**: Focused on joining a collaborative team to share technical experiences and evolve together.
+- ✅ **Modern Stack**: Python 3.12 (Django/FastAPI), NestJS/Node.js, React 19 (Next.js 15), and TypeScript.
 
 <br>
 
@@ -175,15 +180,5 @@ Currently maintaining **3 live applications** deployed on **Azure** with public 
   <p><em>"Building reliable software with clean code, comprehensive tests, and production-ready architecture."</em></p>
 </div>
 
-
-### 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CFBruna&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CFBruna&layout=compact&theme=transparent&hide_border=true&langs_count=6)
-
-</div>
 
 <br>
