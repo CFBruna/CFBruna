@@ -123,7 +123,7 @@ I am currently maintaining the projects below as **high-fidelity portfolio showc
         <a href="https://github.com/CFBruna/fullstack-product-manager">
           <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
         </a>
-        <a href="https://store-manager.brunadev.com">
+        <a href="https://product-manager.brunadev.com">
            <img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge" />
         </a>
         <a href="https://product-manager.brunadev.com/api/api-docs/">
